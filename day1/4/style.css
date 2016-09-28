@@ -1,0 +1,45 @@
+.member-item {
+    width: 450px;
+    border: 2px solid lightgray;
+    height: 120px;
+    padding: 25px;
+    margin: auto;
+}
+
+.member-photo-block {
+    float: left;
+    margin-right: 30px;
+}
+
+.member-city-block {
+    margin-top: 10px;
+    height: 40px;
+}
+
+.member-city-block img {
+    float: left;
+    margin-right: 15px;
+}
+
+.member-city {
+    font-size: 2ch;
+    padding: 5px;
+}
+
+.member-socials {
+    margin-top: 4px;
+}
+
+.member-socials a {
+    margin-right: 15px;
+}
+
+.member-name {
+    font-size: 3ch;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+    font-family: "Franklin Gothic Medium";
+}
